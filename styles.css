@@ -3,6 +3,7 @@ body {
   background-color: yellow;
   color: black;
   padding: 20px;
+  text-align: center;
 }
 
 h1 {
@@ -20,7 +21,7 @@ input[type="file"] {
 input[type="submit"] {
   background-color: black;
   color: yellow;
-  border: none;
+  border-radius: 5px;
   padding: 10px 20px;
   cursor: pointer;
 }
